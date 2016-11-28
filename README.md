@@ -1,2 +1,2 @@
 # DataMiningCourseProject
-Data Mining and found out the error accuracy in the data
+Data Analysis and found out the error accuracy in the given data set
